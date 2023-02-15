@@ -15,6 +15,7 @@ public class TipoVariable {
         System.out.println("Tipo double: ");
         double decimal = 15.0;
         System.out.println(decimal);
+        System.out.println("Division x 2: " + decimal/2);
 
     }
 }
